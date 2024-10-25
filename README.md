@@ -5,4 +5,6 @@ I recently built a Logistic Regression Model to predict stroke risk in patients,
 
 This project has deepened my understanding of both supervised classification machine learning algorithms, focusing on early stroke detection. With an accuracy of 78%, this model can assist healthcare professionals in making informed, data-driven decisions, potentially saving lives.
 
-Please read the full article [here]()
+Please read the full article [here](https://github.com/Adeniran02/Stroke-Prediction-Model/blob/main/Capstone%20Project%20-%20ML%20(Supervised%20-%20Classification%20on%20Linear).pdf)
+
+You can also connect with me on {LinkedIn](https://www.linkedin.com/in/adeniran-olanrewaju/) :-)
