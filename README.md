@@ -7,4 +7,4 @@ This project has deepened my understanding of both supervised classification mac
 
 Please read the full article [here](https://github.com/Adeniran02/Stroke-Prediction-Model/blob/main/Capstone%20Project%20-%20ML%20(Supervised%20-%20Classification%20on%20Linear).pdf)
 
-You can also connect with me on {LinkedIn](https://www.linkedin.com/in/adeniran-olanrewaju/) :-)
+I am open to collaborations. Let's connect on {LinkedIn](https://www.linkedin.com/in/adeniran-olanrewaju/) :-)
